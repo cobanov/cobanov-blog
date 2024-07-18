@@ -1,4 +1,4 @@
-## [Read posts](/posts)
+## [Read Posts](/posts)
 
 ## Data Scientist and Generative Artist
 
